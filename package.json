@@ -14,5 +14,13 @@
     "preversion": "npm test"
   },
   "author": "Marc Bachmann <marc.brookman@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcbachmann/concat-arrays.git"
+  },
+  "bugs": {
+    "url": "https://github.com/marcbachmann/concat-arrays/issues"
+  },
+  "homepage": "https://github.com/marcbachmann/concat-arrays#readme"
 }
