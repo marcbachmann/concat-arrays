@@ -1,4 +1,4 @@
-module.exports = concat
+module.exports = concatArrays
 
 function concatArrays () {
   var concatenated = []
