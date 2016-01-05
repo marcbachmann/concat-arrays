@@ -1,8 +1,13 @@
 {
   "name": "concat-arrays",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Concatenates arrays or array-like objects (arguments)",
-  "keywords": ["concat", "union", "array", "arguments"],
+  "keywords": [
+    "concat",
+    "union",
+    "array",
+    "arguments"
+  ],
   "main": "index.js",
   "scripts": {
     "test": "node test.js",
