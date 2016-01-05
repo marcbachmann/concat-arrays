@@ -1,0 +1,12 @@
+{
+  "name": "concat-arrays",
+  "version": "1.0.0",
+  "description": "Concatenates arrays or array-like objects (arguments)",
+  "keywords": ["concat", "union", "array", "arguments"],
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Marc Bachmann <marc.brookman@gmail.com>",
+  "license": "ISC"
+}
