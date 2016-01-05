@@ -3,7 +3,7 @@
 Concatenates arrays or array-like objects (arguments)
 
 ```js
-var concat = require('concat')
+var concat = require('concat-arrays')
 concat([1, 2], [3, 4], [4]) // returns [1, 2, 3, 4, 4]
 
 // Unlike [].concat, this module also works with arguments
