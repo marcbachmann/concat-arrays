@@ -5,7 +5,8 @@
   "keywords": ["concat", "union", "array", "arguments"],
   "main": "index.js",
   "scripts": {
-    "test": "node test.js"
+    "test": "node test.js",
+    "preversion": "npm test"
   },
   "author": "Marc Bachmann <marc.brookman@gmail.com>",
   "license": "ISC"
