@@ -10,7 +10,7 @@
   ],
   "main": "index.js",
   "scripts": {
-    "test": "node test.js",
+    "test": "standard && node test.js",
     "preversion": "npm test"
   },
   "author": "Marc Bachmann <marc.brookman@gmail.com>",
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/marcbachmann/concat-arrays/issues"
   },
-  "homepage": "https://github.com/marcbachmann/concat-arrays#readme"
+  "homepage": "https://github.com/marcbachmann/concat-arrays#readme",
+  "devDependencies": {
+    "standard": "^8.0.0"
+  }
 }
