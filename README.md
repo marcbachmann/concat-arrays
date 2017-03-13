@@ -1,5 +1,7 @@
 # concat-arrays
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/marcbachmann/concat-arrays.svg)](https://greenkeeper.io/)
+
 Concatenates arrays or array-like objects (arguments)
 
 ```js
