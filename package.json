@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/marcbachmann/concat-arrays#readme",
   "devDependencies": {
-    "standard": "^11.0.0"
+    "standard": "^12.0.0"
   }
 }
