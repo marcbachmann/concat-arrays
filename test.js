@@ -1,8 +1,8 @@
-var assert = require('assert')
-var concat = require('./')
+const assert = require('assert')
+const concat = require('./')
 
 // Does not modify original array
-var arr = [1, 2]
+const arr = [1, 2]
 assert.notEqual(concat(arr), arr)
 
 // Correctly concatenates arrays
