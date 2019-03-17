@@ -1,6 +1,7 @@
 ---
 kind: pipeline
 name: test
+clone: {depth: 50}
 
 steps:
 - name: eslint
@@ -30,6 +31,6 @@ trigger:
 
 ---
 kind: signature
-hmac: 6b94f595216cb51247eb7d44e789fcc81592d2d37181e79b1f5ad9a067b8e157
+hmac: f8535aa4b256cc7e994e813ca93d745b99cb8ffd7b227d0a18255257f0771767
 
 ...
